@@ -1,0 +1,77 @@
+COLISEUM|sports entertainment, inhabitants can exercise and play, generates athletes who entertain crowds.
+THEATRE|musical entertainment, inhabitants can interpret songs here, generates musicians who entertain crowds.
+TEMPLE|priests share their philosophy living in a world more than material, they handle crowds.
+HOSPITAL|generates physicians who heal the sick to avoid deaths, a physician only heals himself near the hospital.
+CASINO|entertainment, party and drinks for the population, clue: is said that grouping of these increase the birth rate.
+ENTERPRISE|workplace for employees by a tycoon, generates wealth for the city.
+FACTORY|site of conversion of raw material given by the mine into marketable products, in change of course of some contamination, clue: beware with AI.
+PORT|clearinghouse of resources with outside through commercial drones, needs the factory to stock up.
+BUSINESS|sale of trinkets brought from the factory, because citizens love to buy trinkets.
+LIBRARY|intellectual entertainment, inhabitants can read here and decrease their aggressiveness, generates teachers.
+LABORATORY|mad scientists release robots by the city, clue: beware with buildings that make crazy things next to the lab.
+GOVERNORATE|unique urban command center, generates political leader and his council, clue: a barracks near is synonymous of war.
+BARRACKS|defensive town house, generates guards who protect the city from internal or external threats.
+STATION|underground transport system, apparently teleport inhabitants from one station to another.
+HUT|single housing of social interest, because have campfire does not necessarily require energy, the first is delivered free.
+SETTLEMENT|agglomeration of poor people forming a huge hovel, does not necessarily require energy.
+HOUSE|basic housing for an average family, simple but comfortable and with very good front garden.
+DOUBLEHOUSE|because two average families can live on one plot, here are two basic houses arranged vertically.
+BIGHOUSE|two floors housing for the average family, as well as basic house but with more populational capacity.
+MANSION|although large and luxurious, their rich owners do not like to live in large families.
+CONDOMINIUM|citizens of the metropolis often live grouped in simple apartments and walled forming a micro community.
+EDIFICE|as well as a condominium but with one tower near the clouds, is ideal for the citizens of the metropolis.
+FUTURISTIC|the future already arrived, smart home and low consumption, with inhabitants that are transported through the air.
+EXOTIC|housing somewhat rare, like the eccentric characters who live there, no one knows its origin.
+UNDERGROUND|to give action to the city, a group of terrorists can live at ease in this hole.
+LAIR|criminals are almost always undesirable, but if you like a few, they will live comfortable here.
+HOTEL|residential building intended for tourists who arrived at the city from an airport.
+AIRPORT|because is a pleasure receive visits, arrival point of tourists (and some more) in hot air balloons.
+CROP|generation of raw food to supply restaurants, it hired farmers.
+RESTAURANT|cooks keep the population fed and a fed population does not protest.
+PARK|quiet and pure place for adult and young, and they rise balloons, it generates birds.
+CEMETERY|last home of citizens, decomposes corpses slowly, clue: inspiration of priests and even scientists.
+DINOPARK|a monument to prehistory, generates birds, clue: some people say could relive those creatures.
+COMMUNICATION|here born the radio, TV and cellular communications, clue: Even scientists say go further.
+AQUEDUCT|no water, no city, in this case is the fundamental material to supply food crops.
+DUMP|raises fundamental cleaners to keep the city neat and decontaminated, clue: beware with chemicals nearby.
+TURBINE|environmentally friendly energy, however is less productive than the boiler.
+BOILER|if you need a lot of energy, the boiler is no doubt the election but beware with contamination.
+MINE|extraction of raw materials from miners, if it is demolished leaves a hole not allowed to build something else.
+PAVEMENT:##city streets, essential for the flow of people in nodular form, beam wide and well distributed streets or you will have traffic jams.
+The vast majority of buildings require energy to function, the houses create citizens and their children will inherit the various roles within the city.##Although your population will not die of hunger, they will protest if they suffer from it and you must take into account that the operation of some buildings depend on the fulfillment of the functions of others.##Citizens pay taxes when sleeping in their homes, there will also be money earning with the various existing services.##Power generators will have priority for the buildings closest to them.##Create the city you want and then be clear that different events can occur here depending on where you place certain buildings (follow the clues).##Go to the menu with key 3 to see more commands#F1: language
+OLD CITY: when you have a good time playing.
+MANY PEOPLE: more population is more fun.
+MANY BUILDINGS: then there will be no place to build.
+GREAT VALUE: because is not the same had huts than edifices.
+FILLED BANK: Omicrocity has money limit.
+ALL UNLOCKED: sure, it is the main trophy.
+GREEDY: convert invaluable things in money.
+BLOODSHED: in one way or another this was inevitable.
+POOR CITY: poor houses, insecurity and hunger.
+MILITARIZED CITY: here no one enemy enter.
+GREEN CITY: many parks with many trees.
+TURISTIC CITY: everybody wants to come here, exists where to stay and transport.
+INDUSTRIAL CITY: pollutant and productive, unstoppable.
+FUTURISTIC CITY: technology takes over from day to day.
+GOTHIC CITY: an ancient style, ghosts and strange people.
+SKYSCRAPER CITY: more floors more status, imposing.
+TRASH AND POLLUTION: it seems like nobody here cleans.
+RABBITS SEEM: an unrestrained increase of population, many infants.
+|SKY DOMINATION: see you many flying machines, great.
+|EXPLORERS: they like to walk around aimlessly.
+|TOURISTS: they come for a walk, sure the city is nice.
+|NATIVES: they come from the forest, maybe the city absorbed them.
+|NUDISTS: citizens who give some to talk.
+|TERRORISTS: somewhat unruly and dangerous.
+|ZOMBIES: they could not be missing, once dispersed are unstoppable.
+|ALIENS: what they did not like, they looked nice.
+|UFO: something extravagant, just want to explore.
+|PIRATES: definitely cannot let them enter here.
+|BOMBING: work of the pirates, maybe the biggest disaster.
+|MECANOIDS: these robots will put order... in their own way.
+|PANDEMIC: something undesirable, hire doctors before it is too late.
+|DEMON: is not terrifying, only put the mortals in deep sleeps.
+|PREHISTORIC: great creature, worthy of the last millennia.
+|SUPERHERO: this radioactive subject hit a few enemies.
+|CHAOS: it is not recommended to suffer, but it is fun.
+THE THROPHY: unlock all achievements, meet Omicrocity.

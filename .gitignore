@@ -1,0 +1,10 @@
+/.godot
+/WebExport
+/originales
+!/datafiles/*.zip
+*.zip
+*.rar
+*.import
+*.tmp
+*.log
+*.exe

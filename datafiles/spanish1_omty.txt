@@ -1,0 +1,77 @@
+COLISEO|entretenimiento deportivo, habitantes pueden hacer ejercicio y jugar, genera deportistas que entretienen a multitudes.
+TEATRO|entretenimiento musical, habitantes pueden interpretar canciones aquí, genera artistas que entretienen multitudes.
+TEMPLO|sacerdotes comparten su filosofía viviendo en un mundo más que material, ellos manejan a multitudes.
+HOSPITAL|genera médicos que sanaran a los enfermos para evitar muertes, un médico solo se cura asimismo cerca al hospital.
+CASINO|entretenimiento, fiesta y bebidas para la población, pista: se dice que agrupación de estos aumentan la natalidad.
+EMPRESA|lugar de trabajo para asalariados a cargo de un magnate, genera riquezas para la ciudad.
+FÁBRICA|lugar de conversión de materia prima dada por la mina en productos comercializables, a cambio claro de cierta contaminación, pista: cuidado con la IA.
+PUERTO|centro de intercambio de recursos con el exterior mediante drones comerciales, necesita de la fábrica para abastecerse.
+COMERCIO|venta de chucherías traídas de la fábrica, porque a los ciudadanos les encanta comprar chucherías.
+BIBLIOTECA|entretenimiento intelectual, habitantes pueden leer aquí y disminuirán su agresividad, genera profesores.
+LABORATORIO|científicos locos sueltan robots por la ciudad, pista: cuidado hay edificios que hacen locuras al lado del laboratorio.
+GOBERNACIÓN|centro único de mando urbano, genera líder político y su consejo, pista: con un cuartel cerca es sinónimo de guerra.
+CUARTEL|edificio defensivo urbano, genera guardias que protegerán la ciudad de amenazas internas o externas.
+ESTACIÓN|sistema subterráneo de transporte, aparentemente teleporta habitantes de una estación a otra.
+CHOZA|simple vivienda de interés social, al poseer fogata no necesariamente requiere energía, la primera se entrega gratis.
+ASENTAMIENTO|aglomeración de personas de escasos recursos conformando un enorme tugurio, no necesariamente requiere energía.
+CASA|vivienda básica para una familia promedio, simple pero confortable y con muy buen antejardín.
+DOBLE-CASA|porque pueden vivir dos familias promedio en un mismo terreno, aquí dos casas basicas dispuestas en vertical.
+CASOTA|vivienda de dos pisos para familia promedio, así como la casa básica, pero con más capacidad poblacional.
+MANSIÓN|aunque grande y lujosa, sus poseedores adinerados no gustan vivir en grandes familias.
+CONDOMINIO|ciudadanos de la urbe suelen vivir agrupados en apartamentos simples y amurallados conformando una micro comunidad.
+EDIFICIO|así como un condominio, pero en una sola torre y rozando las nubes, es idoneo para los ciudadanos de la urbe.
+FUTURISTA|el futuro ya llego, casa inteligente y de bajo consumo, con habitantes que se transportan por los aires.
+EXÓTICA|una vivienda un tanto rara, al igual que los excéntricos personajes que allí habitan, nadie sabe su procedencia.
+SUBTERRÁNEA|para darle acción a la ciudad, un grupo de terroristas puede vivir a gusto en este agujero.
+GUARIDA|los delincuentes casi siempre son indeseables, pero por si gustas de unos cuantos, aquí vivirán cómodos.
+HOTEL|edificio de viviendas destinado a los turistas que arribaran a la ciudad desde un aeropuerto.
+AEROPUERTO|porque es un gusto recibir visitas, punto de llegada de turistas (y algo mas) en globos aerostáticos.
+CULTIVO|generación de alimentos crudos para abastecer a los restaurantes, contratara agricultores.
+RESTAURANTE|los cocineros mantienen alimentada a la población y una población alimentada no protesta.
+PARQUE|lugar tranquilo y puro para que adultos y jóvenes paseen y eleven globitos, genera aves.
+CEMENTERIO|última vivienda de los ciudadanos, descompone cadáveres lentamente, pista: inspiración de sacerdotes y hasta de científicos.
+DINO-PARQUE|un parque monumento a la prehistoria, genera aves, pista: algunos dicen poder revivir a esas criaturas.
+COMUNICACIÓN|aquí nacen el radio, la tv y las comunicaciones celulares, pista: incluso los científicos dicen llegar más lejos.
+ACUEDUCTO|sin agua no hay ciudad, en este caso es la materia fundamental para abastecer plantaciones de alimentos.
+BASURERO|genera limpiadores fundamentales para mantener la ciudad aseada y descontaminada, pista: ojo con los químicos cerca.
+TURBINA|energía amigable con el ambiente, a cambio claro es menos productiva que la caldera.
+CALDERA|si mucha energía necesitas, la caldera es sin duda la elección, pero ten cuidado con su contaminación.
+MINA|extracción de materias primas por parte de mineros, si se demuele deja un hueco que no permite construir algo más.
+PAVIMENTO:##calles de la ciudad, indispensables para el flujo de personas en forma nodular, haz calles amplias y bien distribuidas o tendrás embotellamientos.
+La gran mayoría de edificaciones requieren energía para funcionar, las viviendas crean ciudadanos y los hijos de estos heredaran los roles diversos dentro de la ciudad.##Aunque tu población no morirá de hambre, protestaran si la padecen y debes tener en cuenta que el funcionamiento de unas edificaciones depende del cumplimiento de las funciones de otras.##Los ciudadanos pagan impuestos al dormir en sus viviendas, también habrá ganancia de dinero con los diversos servicios existentes.##Los generadores de energía tendrán prioridad por las edificaciones más cercanas a ellos.##Crea la ciudad que deseas y luego ten claro que aquí pueden ocurrir eventos diversos dependiendo de donde colocas ciertas edificaciones (sigue las pistas).##Ve al menú con tecla 3 para ver más comandos#F1: language.
+CIUDAD LONGEVA: cuando llevas un buen tiempo jugando.
+MUCHA GENTE: más población es más diversión.
+MUCHA EDIFICACION: luego no habrá donde construir.
+GRAN AVALUO: porque no es lo mismo tener chozas que edificios.
+BANCO LLENO: Omicrocity tiene límite de dinero.
+TODO DESBLOQUEADO: seguro es el principal trofeo.
+CODICIOSO: convertir en dinero lo invaluable.
+MATANZA: de una forma u otra esto era inevitable.
+CIUDAD POBRE: casas pobres, inseguridad y hambre.
+CIUDAD MILITARIZADA: aquí ningún enemigo entra.
+CIUDAD VERDE: muchos parques con muchos árboles.
+CIUDAD TURISTICA: todos quieren venir aquí, hay donde alojarse y transporte.
+CIUDAD INDUSTRIAL: contaminante y muy productiva, imparable.
+CIUDAD FUTURISTA: la tecnología se apodera del día a día.
+CIUDAD GOTICA: un estilo antiguo, fantasmas y gente rara.
+CIUDAD RASCACIELOS: entre más pisos más estatus, imponente.
+BASURA Y POLUCION: parece que aquí nadie limpia.
+PARECEN CONEJOS: un aumento de población desenfrenado, muchos infantes.
+|DOMINIO DEL CIELO: ves muchas maquinas voladoras, genial.
+|EXPLORADORES: ellos gustan andar por ahí sin rumbo.
+|TURISTAS: vienen de paseo, seguro la ciudad es agradable.
+|INDIGENAS: vienen del bosque, quizá la ciudad los absorbió.
+|NUDISTAS: ciudadanos que dan de que hablar.
+|TERRORISTAS: un tanto revoltosos y peligrosos.
+|ZOMBIES: no podían faltar, una vez dispersos son indetenibles.
+|ALIENS: que será lo que no les agrado, se veían simpáticos.
+|OVNI: algo extravagante, solo quiere explorar.
+|PIRATAS: definitivamente no se los puede dejar entrar.
+|BOMBARDEO: obra de los piratas, quizá de las mayores catástrofes.
+|MECANOIDES: estos aparatos pondrán orden... a su modo.
+|PANDEMIA: algo indeseable, contrata médicos antes que sea tarde.
+|DEMONIO: no es tan terrorífico, solo duerme profundamente a los mortales.
+|PREHISTORICO: gran criatura, digna de los milenios pasados.
+|SUPERHEROE: este sujeto radioactivo golpea a unos cuantos enemigos.
+|CAOS: no se recomienda padecerlo, pero es divertido.
+EL TROFEO: desbloquea todos los logros, conoce Omicrocity.
